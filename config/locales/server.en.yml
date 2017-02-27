@@ -1,4 +1,4 @@
 en:
   site_settings:
     vip_secret: "This is your secret key for VIP Section <br/> If you change this make sure you communicate the new url to everyone you want to register to vip section
-    <br> Register url : http://forum.stationx.net/register/vip_section/?key=<SecretKey above>"
+    <br> Register url : http://example.net/register/vip_section/?key=<SecretKey above>"
