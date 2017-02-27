@@ -1,0 +1,4 @@
+plugins:
+  vip_secret:
+    default: 'xsftdr345267445dfse754vjyurtjyyzakrghsyu56'
+    client: true
