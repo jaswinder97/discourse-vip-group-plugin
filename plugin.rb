@@ -1,7 +1,7 @@
 # name: vip-section
 # about: This will hold secret key for the vip section
 # version: 0.1
-# authors: Ajet
+# authors: Jaswinder
 # url: To be added
 
 enabled_site_setting :vip_secret
